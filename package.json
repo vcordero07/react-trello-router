@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "react-redux": "^5.0.2",
+    "react-redux": "^7.2.3",
     "react-scripts": "0.8.5"
   },
   "dependencies": {
